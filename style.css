@@ -1,0 +1,21 @@
+.cards{
+    background-color:rgba(41,255,101,255);
+    font-size: 45px;
+    width:700px;
+    height: fit-content;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+    box-shadow: 5px 10px #888888;
+    
+
+}
+h2{
+    text-align: right;
+    padding-top:0px;
+    font-family: 'Pacifico', cursive;
+}
+body{
+    padding-left: 450px;
+    padding-top: 100px;
+}
